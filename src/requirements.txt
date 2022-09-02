@@ -1,0 +1,3 @@
+fastapi[all]
+git+https://github.com/odoo/odoo.git@15.0
+
